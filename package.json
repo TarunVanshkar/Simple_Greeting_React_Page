@@ -1,7 +1,7 @@
 {
   "name": "simple-greeting-website",
   "version": "0.1.0",
-  "homepage": "https://TarunVanshkar.github.io/greeting-page",
+  "homepage": "https://TarunVanshkar.github.io/Simple_Greeting_React_Page",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
